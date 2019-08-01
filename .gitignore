@@ -1,0 +1,5 @@
+node_modules
+kafka.cert
+kafka.key
+serviceAccountKey.json
+.env
